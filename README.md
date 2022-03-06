@@ -4,6 +4,7 @@ Make_keys.py generates a public and a private key
 Encrypt_data.py encrypts the given data according to the public key
 Decrypt_data.py decrypts the given data according to the public key
 
+<br>
 Features:
 • Completely secured network
 • 2048 bit Asymmetric encryption
