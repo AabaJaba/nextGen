@@ -26,4 +26,4 @@ Tech used: <br>
 
 Note: The repository doesn't contain node_modules folder (Because it is a more than 100MB which is unsupported in GitHub. The node modules are required to run the project. To download the whole project with node_modules, please download the .zip from: https://drive.google.com/file/d/1YcPZfN2SiBE35yjQIxpoSxCHFLR0qA_S/view?usp=sharing <br>
 To run the app, run "npm start" in the root directory <br>
-Project demo: 
+Project demo: https://youtu.be/WlTsLAHv7YM <br>
