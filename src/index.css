@@ -1,0 +1,12 @@
+h1{
+  color: lightgreen;
+}
+
+input[type=file]::file-selector-button {
+  border: none;
+}
+
+p{
+  font-size:large;
+  font-family: 'Courier New', Courier, monospace;
+}
