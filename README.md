@@ -15,7 +15,7 @@ Features: <br>
 • Unique token based GET requests <br>
 • Cross platform support <br>
 
-Tech used:
+Tech used: <br>
 • Electron.js <br>
 • Python <br>
 • Firebase Realtime Database <br>
